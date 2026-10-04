@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mnaresh925
 - 👀 I’m interested in  working on developing CRM applications based on Salesforce/Siebel
 - 💞️ I’m looking to collaborate on Saleforce Projects that involve work on Apex,LWC
-- 📫 Reach me on minaresh.925@gmail.com
+- 📫 Reach me on mnaresh925@gmail.com
 
 <!---
 mnaresh925/mnaresh925 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
